@@ -3,11 +3,6 @@
 The propose of this repository is to save my tests/studies about gRPC in C++, based on:
 - [Introduction](https://grpc.io/docs/what-is-grpc/introduction);
 - [Core concepts](https://grpc.io/docs/what-is-grpc/core-concepts);
-- []();
-- []();
-- []();
-- []();
-- [Quickstart](https://grpc.io/docs/languages/cpp/quickstart);
 
 # 1. How gRPC works
 It is a communication standard (like Rest is) that allows the client side to call implemented methods of server side, like if it is present at the client source code, as an ordinary method.
